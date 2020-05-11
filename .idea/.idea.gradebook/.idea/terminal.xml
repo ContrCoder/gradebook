@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TerminalProjectOptionsProvider">
+    <envs>
+      <env key="PATH" value="$PROJECT_DIR$/../anaconda3/bin:/Users/oskliarova/anaconda3/condabin:/Users/oskliarova/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/Cellar/python/3.7.7/bin:/usr/local/share/dotnet" />
+    </envs>
+  </component>
+</project>
